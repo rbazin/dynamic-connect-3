@@ -1,0 +1,113 @@
+0, , , ,1
+1, , , ,0
+0, , , ,1
+1, , , ,0
+game07 white
+
+Depth : 8
+Depth : 7
+Depth : 6
+Depth : 5
+Depth : 4
+Depth : 3
+Depth : 2
+Depth : 1
+Depth : 0
+Your action : 11E
+Evaluation of the action : -3.003576834546904
+Time to compute minimax : 0.0019116401672363281s
+ ,0, , ,1
+1, , , ,0
+0, , , ,1
+1, , , ,0
+Opponent's action : 14E
+ ,0, , ,1
+1, , , ,0
+0, , , ,1
+ ,1, , ,0
+Depth : 8
+Depth : 7
+Depth : 6
+Depth : 5
+Depth : 4
+Depth : 3
+Depth : 2
+Depth : 1
+Depth : 0
+Your action : 21S
+Evaluation of the action : -3.00704895097611
+Time to compute minimax : 0.0019042491912841797s
+ , , , ,1
+1,0, , ,0
+0, , , ,1
+ ,1, , ,0
+Opponent's action : 24E
+ , , , ,1
+1,0, , ,0
+0, , , ,1
+ , ,1, ,0
+Depth : 8
+Depth : 7
+Depth : 6
+Depth : 5
+Depth : 4
+Depth : 3
+Depth : 2
+Depth : 1
+Depth : 0
+Your action : 22S
+Evaluation of the action : -4.027119154620516
+Time to compute minimax : 0.0019197463989257812s
+ , , , ,1
+1, , , ,0
+0,0, , ,1
+ , ,1, ,0
+Opponent's action : 34E
+ , , , ,1
+1, , , ,0
+0,0, , ,1
+ , , ,1,0
+Depth : 8
+Depth : 7
+Depth : 6
+Depth : 5
+Depth : 4
+Depth : 3
+Depth : 2
+Depth : 1
+Depth : 0
+Your action : 52W
+Evaluation of the action : -0.9980139088796994
+Time to compute minimax : 0.0019030570983886719s
+ , , , ,1
+1, , ,0, 
+0,0, , ,1
+ , , ,1,0
+Opponent's action : 51W
+ , , ,1, 
+1, , ,0, 
+0,0, , ,1
+ , , , ,1
+Depth : 8
+Depth : 7
+Depth : 6
+Your action : 42S
+Evaluation of the action : -5.009211942865398
+Time to compute minimax : 0.00044655799865722656s
+ , , ,1,
+1, , , , 
+0,0, ,0,1
+ , , , ,1
+Opponent's action : 34E
+ , , ,1,
+1, , ,1, 
+0,0, ,0,1
+ , , , ,1
+Your action : 42S
+Evaluation of the action : -0.044632274868367
+Time to compute minimax : 0.00044655799865722656s
+ , , ,1,
+1, , ,1, 
+0,0,0, ,1
+ , , , ,1
+Winner is player white, congratulations !
