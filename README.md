@@ -1,6 +1,6 @@
 # Dynamic connect-3
 
-Assignment 1 for ECSE526 AI course at McGill University
+Implementation of A* alpha-beta search to play the game Dynamic connect-3. This was part of course ECSE 526 at McGill University
 
 ## Player vs AI
 
