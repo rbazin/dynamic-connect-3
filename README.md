@@ -1,6 +1,8 @@
-# Dynamic connect-3
+# Dynamic Connect-3
 
-Implementation of A* alpha-beta search to play the game Dynamic connect-3. This was part of course ECSE 526 at McGill University
+Implementation of an agent using **Alpha-Beta Search** to play the game **Dynamic Connect-3**. 
+
+This project was the first assignment in course ECSE526 at McGill University.
 
 ## Player vs AI
 
